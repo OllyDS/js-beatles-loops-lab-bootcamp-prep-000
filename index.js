@@ -28,5 +28,9 @@ function iLoveTheBeatles(num){
     num++;
   }
   while (num < 15);
+<<<<<<< HEAD
   return array4
+=======
+  return array4;
+>>>>>>> f67185fde6c42a947fc9872bcea4d4073daa71d7
 }
